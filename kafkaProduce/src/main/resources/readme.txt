@@ -22,3 +22,4 @@ https://kafka.apache.org/quickstart
 
 
 url para teste: http://localhost:8080/api/produto (method post)
+
