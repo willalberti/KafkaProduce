@@ -21,5 +21,5 @@ https://emmanuelneri.com.br/2019/06/04/kafka-no-spring-boot/
 https://kafka.apache.org/quickstart
 
 
-url para teste: http://localhost:8080/api/produto (method post)
+url para teste: http://localhost:8080/api/produto (method post) 
 
